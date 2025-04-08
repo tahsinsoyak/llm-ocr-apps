@@ -1,8 +1,8 @@
-# Qwen 2.5 OCR Application
+# Qwen Application
 
 ## Overview
 
-The Qwen 2.5 OCR application is a web-based tool that utilizes the Qwen2-VL model for Optical Character Recognition (OCR) on uploaded images. It is built using Streamlit, a Python library for creating interactive web applications. The application allows users to upload images and extract readable text using advanced machine learning models.
+The Qwen/Qwen2-VL-7B-Instruct model application is a web-based tool that utilizes the Qwen2-VL model for Optical Character Recognition (OCR) on uploaded images. It is built using Streamlit, a Python library for creating interactive web applications. The application allows users to upload images and extract readable text using advanced machine learning models.
 
 ## Features
 
